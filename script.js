@@ -100,6 +100,8 @@ const newLogic=()=>{
 }
 newButton.addEventListener("click",newLogic);
 
+
 console.log("aaaaaa edit2 editttttt");
+
 
 
