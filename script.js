@@ -100,4 +100,6 @@ const newLogic=()=>{
 }
 newButton.addEventListener("click",newLogic);
 
+console.log("aaaaaa");
+
 
